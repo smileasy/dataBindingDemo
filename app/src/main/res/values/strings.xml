@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="title">Score</string>
+    <string name="teamA">TeamA</string>
+    <string name="teamB">TeamB</string>
+    <string name="add">add+1</string>
+    <string name="countA" translatable="false">0</string>
+    <string name="undo">undoButton</string>
+    <string name="reset">resetButton</string>
 </resources>
